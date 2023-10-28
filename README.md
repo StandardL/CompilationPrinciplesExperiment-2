@@ -28,7 +28,7 @@
 
 ### 🧪测试数据
 
-共使用6组测试数据，具体请参见[Test instance文件夹]().
+共使用6组测试数据，具体请参见[Test instance文件夹](https://github.com/StandardL/CompilationPrinciplesExperiment-2/tree/main/src/Test%20instances).
 
 ## 🧭编译
 
