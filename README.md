@@ -20,7 +20,7 @@
 
 ### 截图
 
-![image-20231028104916620](images\程序主界面.png)
+![image-20231028104916620](https://github.com/StandardL/CompilationPrinciplesExperiment-2/raw/main/images/%E7%A8%8B%E5%BA%8F%E4%B8%BB%E7%95%8C%E9%9D%A2.png)
 
 ### 支持处理的正则表达式运算符
 
